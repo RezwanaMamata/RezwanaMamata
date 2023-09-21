@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rezwana04-blue)](https://www.linkedin.com/in/rezwana04/)
 ## Summary
 - Attained a MASc degree in Electrical and Computer Engineering from Ontario Tech University, with a focus on Machine Learning-powered Test Case Prioritization.
-- Accumulated over three years of substantial academic research experience in Data Science and Machine Learning, actively participating in diverse projects and publishing three impactful research articles.
+- Accumulated over three years of substantial academic research experience in Data Science and Machine Learning, actively participated in diverse projects and published three impactful research articles.
 
 ## 🎓 Education
 
