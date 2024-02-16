@@ -10,6 +10,16 @@ Proficient in clear and impactful communication, adept at explaining complex tec
 - Excellent time management and organization as demonstrated through preparing and delivering tutorial lectures to 60+ students on a variety of subjects, including machine learning and advanced computer science topics
 - Adaptable and highly motivated, successfully graded 400 exam scripts in a short turn around time without compromising other commitments and deliverables
 
+## Technical Skills
+
+### Programming Languages: Python, C/C++, Java, SQL
+### Cloud Platforms: Microsoft Azure, AWS, Paperspace
+### Data Science & Machine Learning: Pandas, Numpy, Scipy, Scikit-learn, TensorFlow, PyTorch, Keras
+### Version Control/DevOps: GitHub, Git, Jenkins, Selenium, Apache-Airflow
+### Web Technologies: HTML, CSS,  Bootstrap, Laravel, Django, Flask
+### Platforms and Databases:, MySQL, PostgreSQL, SQLite
+### Operating Systems: Linux, Windows
+
 ## 💼 Experience
 
 ### Ontario Tech University, Teaching & Research Assistant [May, 2021 – Apr, 2023]
@@ -30,9 +40,11 @@ Proficient in clear and impactful communication, adept at explaining complex tec
 
 ### Quantanite, Data Analyst [Jan, 2020 – Dec, 2020]
 
-- Project: Detect fraudulent activities within surveys using Machine Learning.
-- Utilized CountVectorizer Bag of Words and TFIDF transformers for text vectorization.
-- Employed machine learning algorithms, including Logistic Regression, Support Vector Classifier, Decision Tree Classifier, Random Forests Classifier, and K-Nearest Neighbors.
+- Analyzed surveys from 100,000+ responses regarding cleaning products during COVID, successfully identifying target consumer segments to inform and guide marketing strategies 
+- Implemented text vectorization techniques using CountVectorizer Bag of Words and TFIDF transformers to preprocess survey data, enabling the efficient identification of potential fraud by transforming raw data into a structured format suitable for analysis
+- Constructed and fine-tuned a machine learning model specifically designed to detect fraudulent responses, achieving an 88% success rate in identifying fraudulent activities
+- Utilized Tableau to visualize and highlight regions with higher occurrences of fraudulent survey submissions, leading to more targeted investigation and resulting in more accurate market analysis
+
 
 ## Research & Development Projects
 
@@ -87,30 +99,16 @@ Proficient in clear and impactful communication, adept at explaining complex tec
   - Daffodil International University, Bangladesh
   - Research Area: Mobile Application Development
 
-## Development Skills
+## Technical Skills
 
-### Programming Languages
+### Programming Languages: Python, C/C++, Java, SQL
+### Cloud Platforms: Microsoft Azure, AWS, Paperspace
+### Data Science & Machine Learning: Pandas, Numpy, Scipy, Scikit-learn, TensorFlow, PyTorch, Keras
+### Version Control/DevOps: GitHub, Git, Jenkins, Selenium, Apache-Airflow
+### Web Technologies: HTML, CSS,  Bootstrap, Laravel, Django, Flask
+### Platforms and Databases:, MySQL, PostgreSQL, SQLite
+### Operating Systems: Linux, Windows
 
-- C/C++, Python
-- Java, JavaScript
-- Ruby on Rails
-- PHP, Laravel
-- SQL
-
-### Tools & Libraries
-
-- Visual Studio, Code Blocks
-- Eclipse/NetBeans
-- Sci-kit Learn, TensorFlow
-- Tableau, Matplotlib
-- PySpark
-
-### Platforms
-
-- Linux/Ubuntu
-- Raspberry PI 3
-- AWS
-- Kubernetes
 
 ## Awards & Scholarships
 
