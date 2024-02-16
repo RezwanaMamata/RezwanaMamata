@@ -63,10 +63,10 @@ Proficient in clear and impactful communication, adept at explaining complex tec
 
 ### Risky Aircraft Landing Detection in Real-time
 
-- Real-time anomaly detection for safer aircraft landings.
-- Preprocessed ping station (YOW Airport Runway) raw data such as speed, deceleration, distance, and altitude of aircraft landing events.
-- Developed online ML model training web application using PHP-ML.
-- Implemented using Laravel, PHP, JavaScript, Python, and backed by MySQL.
+- Developed a real-time abnormal aircraft landing detection application for Ottawa Airport using ML model training.
+- Formulated an efficient data engineering pipeline for processing raw flight landing data for ML models.
+- Implemented real-time data visualization tools for operational monitoring and decision-making.
+- Technologies used: PHP-ML, Laravel, PHP, JavaScript, Python, backed by MySQL database.
 
 ### Review Authenticity Guard
 
@@ -77,11 +77,11 @@ Proficient in clear and impactful communication, adept at explaining complex tec
 
 ### Student Dropout Prediction using Machine Learning
 
-- Predict student dropout risk using academic performance, attendance, and demographic data.
-- Developed a machine learning model in Python using Scikit-Learn.
-- Deployed a web app with Flask for interactive predictions.
+- Engineered a predictive analytics tool using machine learning to assess student dropout risks, analyzing synthetic data of 1,000 student profiles for academic and behavioral insights.
+- Established a streamlined process for data preprocessing and model evaluation, facilitating educational institutions' ability to predict and mitigate student dropout scenarios effectively.
+- Applied Python's Faker library for data generation and Scikit-Learn for model training, employing a Support Vector Machine (SVM) to differentiate potential dropouts with a 86% accuracy rate.
 
-## 📚Publications
+## 📚 Publications
 
 - Rezwana Mamata, Akramul Azim, Ramiro Liscano, Kevin Smith, YeeKang Chang, Qasim Tauseef, and Gkerta Seferi. “Test Case Prioritization using Transfer Learning in Continuous Integration Environments” 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
 - Rezwana Mamata, Akramul Azim, Ramiro Liscano, Kevin Smith, YeeKang Chang, Qasim Tauseef, and Gkerta Seferi. "Failure Prediction using Transfer Learning in Large-scale Continuous Integration Environments." Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering (CASCON), 2022.
@@ -89,25 +89,13 @@ Proficient in clear and impactful communication, adept at explaining complex tec
 
 ## 🎓 Education
 
-- MASc, Electrical and Computer Engineering
+- MASc, Electrical and Computer Engineering [Apr, 2023]
   - Thesis: Test case prioritization using transfer learning in continuous integration environments
   - Received Dean’s Graduate Scholarship
   
-- Daffodil International University
+- Daffodil International University [Dec, 2018]
   - BSc, Computer Science and Engineering
   - Awarded a 50% Tuition Scholarship for academic performance
-
-
-## Technical Skills
-
-### Programming Languages: Python, C/C++, Java, SQL
-### Cloud Platforms: Microsoft Azure, AWS, Paperspace
-### Data Science & Machine Learning: Pandas, Numpy, Scipy, Scikit-learn, TensorFlow, PyTorch, Keras
-### Version Control/DevOps: GitHub, Git, Jenkins, Selenium, Apache-Airflow
-### Web Technologies: HTML, CSS,  Bootstrap, Laravel, Django, Flask
-### Platforms and Databases:, MySQL, PostgreSQL, SQLite
-### Operating Systems: Linux, Windows
-
 
 ## Awards & Scholarships
 
