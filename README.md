@@ -3,35 +3,30 @@
 ## Rezwana Mamata
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rezwana04-blue)](https://www.linkedin.com/in/rezwana04/)
 ## Summary
-- Attained a MASc degree in Electrical and Computer Engineering from Ontario Tech University, with a focus on Machine Learning-powered Test Case Prioritization.
-- Accumulated over three years of substantial academic research experience in Data Science and Machine Learning, actively participated in diverse projects and published three impactful research articles.
-
-## 🎓 Education
-
-- MASc., Electrical and Computer Engineering [May, 2021 – Apr, 2023]
-  - Ontario Tech University, Canada
-  - Supervisor: Dr. Akramul Azim
-  - Research Area: Embedded Systems, Test Case Prioritization, and Transfer Learning
-
-- B.Sc., Computer Science and Engineering [Jan, 2015 – Dec, 2018]
-  - Daffodil International University, Bangladesh
-  - Research Area: Mobile Application Development
+- 3+ years of practical experience in data science and machine learning through contributions as a research assistant at Ontario Tech University and as a data analyst at Quantanite, able to confidently apply advanced analytical techniques to complex datasets
+- Expertise in data wrangling, mining, and statistical analysis demonstrated through a collaborative effort with IBM, focusing on analyzing millions of test execution records from the Open Liberty project to uncover patterns of test failures
+- Skilled in data analysis and insight generation, as demonstrated through publications of research articles at renowned conferences, including EMSOFT'22, CASCON'22, and AST'23
+Proficient in clear and impactful communication, adept at explaining complex technical concepts to a wide range of stakeholders
+- Excellent time management and organization as demonstrated through preparing and delivering tutorial lectures to 60+ students on a variety of subjects, including machine learning and advanced computer science topics
+- Adaptable and highly motivated, successfully graded 400 exam scripts in a short turn around time without compromising other commitments and deliverables
 
 ## 💼 Experience
 
 ### Ontario Tech University, Teaching & Research Assistant [May, 2021 – Apr, 2023]
 
-- Member of RTEMSOFT Research Lab
-- Focused on Machine Learning-powered Test Case Prioritization and Resource Optimization
-- Contributed to the HIL Test Bench using CARLA simulator
-- Served as a Course TA for Software Quality, Intro. to Programming, Software Design & Arch
-- Designed and conducted labs for System Programming (Linux, Shell, Perl, Bash)
+- Researched and implemented a machine learning model to prioritize test cases in a continuous integration environment, resulting in a significant reduction of overall test case prioritization time by 38%
+- Developed a transfer learning method, TCP_TB, to enhance test case prioritization, achieving average 5% increase across 23 study subjects, demonstrating applicability and effectiveness in diverse testing environments
+- Created a resource allocation model using the COBYLA optimizer for hard real-time embedded systems, achieving a 13% reduction in resource over-provisioning
+- Conducted tutorial lectures for over 60 students on topics from machine learning to advanced computer science, using interactive discussions and real-world examples
+- Provided weekly one-on-one academic support, leading to an average 80% improvement in students' academic performance and progression by addressing individual concerns and questions
 
 ### IBM, CAS Research Collaborator (Student) [Jan, 2022 – Apr, 2023]
 
-- Project: Test Case Prioritization using ML in CI Environment
-- Analyzed git log and CI test log metadata for feature extraction.
-- Implemented a Transfer Learning model to enhance Test Case Prioritization for new projects.
+- Enhanced Test Case Prioritization for IBM's "Open Liberty" project through machine learning techniques, achieving a 93% efficiency rate in identifying and addressing software faults to streamline the development cycle
+- Developed a Python script to automatically extract git log and CI test log metadata, reducing feature extraction time by 20%, and optimizing the data preparation phase for faster analysis and model training
+- Analyzed a dataset of 4.5 million test execution records using Python libraries pandas and numpy, extracting test failure patterns for model training, leading to a more targeted approach to identifying software issues
+- Utilized matplotlib and plotly for data visualization, enhancing the clarity of analysis results presented during monthly meetings with IBM colleagues, leading to more informed decision-making
+
 
 ### Quantanite, Data Analyst [Jan, 2020 – Dec, 2020]
 
@@ -80,6 +75,17 @@
 - Rezwana Mamata, Akramul Azim, Ramiro Liscano, Kevin Smith, YeeKang Chang, Qasim Tauseef, and Gkerta Seferi. “Test Case Prioritization using Transfer Learning in Continuous Integration Environments” 4th ACM/IEEE International Conference on Automation of Software Test (AST), 2023.
 - Rezwana Mamata, Akramul Azim, Ramiro Liscano, Kevin Smith, YeeKang Chang, Qasim Tauseef, and Gkerta Seferi. "Failure Prediction using Transfer Learning in Large-scale Continuous Integration Environments." Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering (CASCON), 2022.
 - Rezwana Mamata, and Akramul Azim. "Work-in-Progress: A Resource-Aware Optimization Model for Real-Time Systems Analysis and Design." International Conference on Embedded Software (EMSOFT), IEEE, 2022.
+
+## 🎓 Education
+
+- MASc., Electrical and Computer Engineering [May, 2021 – Apr, 2023]
+  - Ontario Tech University, Canada
+  - Supervisor: Dr. Akramul Azim
+  - Research Area: Embedded Systems, Test Case Prioritization, and Transfer Learning
+
+- B.Sc., Computer Science and Engineering [Jan, 2015 – Dec, 2018]
+  - Daffodil International University, Bangladesh
+  - Research Area: Mobile Application Development
 
 ## Development Skills
 
