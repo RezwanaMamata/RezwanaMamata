@@ -22,7 +22,7 @@ Proficient in clear and impactful communication, adept at explaining complex tec
 
 ## 💼 Experience
 
-### Ontario Tech University, Teaching & Research Assistant [May, 2021 – Apr, 2023]
+### Ontario Tech University, Teaching & Research Assistant [May, 2021 – Present]
 
 - Researched and implemented a machine learning model to prioritize test cases in a continuous integration environment, resulting in a significant reduction of overall test case prioritization time by 38%
 - Developed a transfer learning method, TCP_TB, to enhance test case prioritization, achieving average 5% increase across 23 study subjects, demonstrating applicability and effectiveness in diverse testing environments
@@ -30,7 +30,7 @@ Proficient in clear and impactful communication, adept at explaining complex tec
 - Conducted tutorial lectures for over 60 students on topics from machine learning to advanced computer science, using interactive discussions and real-world examples
 - Provided weekly one-on-one academic support, leading to an average 80% improvement in students' academic performance and progression by addressing individual concerns and questions
 
-### IBM, CAS Research Collaborator (Student) [Jan, 2022 – Apr, 2023]
+### IBM, CAS Research Collaborator (Student) [Jan, 2022 – Present]
 
 - Enhanced Test Case Prioritization for IBM's "Open Liberty" project through machine learning techniques, achieving a 93% efficiency rate in identifying and addressing software faults to streamline the development cycle
 - Developed a Python script to automatically extract git log and CI test log metadata, reducing feature extraction time by 20%, and optimizing the data preparation phase for faster analysis and model training
@@ -48,14 +48,13 @@ Proficient in clear and impactful communication, adept at explaining complex tec
 
 ## Research & Development Projects
 
-### IBM CAS Research Project
+### ML-based Test Scenario Prioritization for Autonomous Vehicle Software [Link]
 
-- Contributed to Test Case Prioritization (TCP) using ML for the "Open Liberty" project at IBM.
-- Explored transfer learning's potential in TCP to enhance testing efficiency by leveraging cross-domain data patterns.
-- Investigated model-based transfer learning as a privacy-preserving solution, addressing low data volume and infrequent failure rates challenges.
-- Performed feature engineering on version control (git) and CI test log metadata.
-- Developed TCP_TB method utilizing TransBoost, improving test prioritization for 82.61% of study subjects.
-
+- Tackled high costs and inefficiencies in traditional autonomous vehicle testing by integrating ML to forecast and prioritize essential test scenarios.
+- Analyzed 60,000 test scenarios from the Baidu Apollo dataset, focusing on critical features like vehicle behavior and environmental factors.
+- Selected and applied EasyEnsemble among various ML algorithms due to its superior performance, emphasizing traffic rules and obstacle data for prediction accuracy.
+- Achieved a 32% increase in fault detection efficiency using ML prioritization over random methods, significantly reducing testing expenses and improving early fault detection.
+  
 ### Resource Optimization for Real-time Systems
 
 - Developed an optimized model to reduce over-provisioning in hard real-time embedded systems.
@@ -90,14 +89,14 @@ Proficient in clear and impactful communication, adept at explaining complex tec
 
 ## 🎓 Education
 
-- MASc., Electrical and Computer Engineering [May, 2021 – Apr, 2023]
-  - Ontario Tech University, Canada
-  - Supervisor: Dr. Akramul Azim
-  - Research Area: Embedded Systems, Test Case Prioritization, and Transfer Learning
+- MASc, Electrical and Computer Engineering
+  - Thesis: Test case prioritization using transfer learning in continuous integration environments
+  - Received Dean’s Graduate Scholarship
+  
+- Daffodil International University
+  - BSc, Computer Science and Engineering
+  - Awarded a 50% Tuition Scholarship for academic performance
 
-- B.Sc., Computer Science and Engineering [Jan, 2015 – Dec, 2018]
-  - Daffodil International University, Bangladesh
-  - Research Area: Mobile Application Development
 
 ## Technical Skills
 
